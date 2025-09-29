@@ -1,4 +1,4 @@
-# Descomplicando GitHub Actions - Filipe Almeida
+# Descomplicando GitHub Actions - Automated Tests Branch
 
 Se inscreva na aula ao vivo e gratuita: https://quiz.linuxtips.io/github-actions
 
