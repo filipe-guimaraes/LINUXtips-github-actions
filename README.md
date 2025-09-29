@@ -1,4 +1,4 @@
-# Descomplicando GitHub Actions
+# Descomplicando GitHub Actions - Filipe Almeida
 
 Se inscreva na aula ao vivo e gratuita: https://quiz.linuxtips.io/github-actions
 
